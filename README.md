@@ -7,28 +7,22 @@ Progressive Report Information Management for Student Affairs
 
 ### Login Page
 
-![Login](figma-designs/login.png)
+![Login](Login.png)
 
 ---
 
 ### Dashboard
 
-![Dashboard](figma-designs/dashboard.png)
+![Dashboard](Dashboard.png)
 
 ---
 
 ### Student Management
 
-![Students](figma-designs/students.png)
+![Students](StudentInfo.png)
 
 ---
 
 ### Violation Management
 
-![Violations](figma-designs/violations.png)
-
----
-
-### Reports Page
-
-![Reports](figma-designs/reports.png)
+![Violations](Violation.png)
